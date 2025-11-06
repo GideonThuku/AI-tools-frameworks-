@@ -1,0 +1,8 @@
+tensorflow
+scikit-learn
+spacy
+matplotlib
+pandas
+streamlit
+streamlit-drawable-canvas
+opencv-python-headless
